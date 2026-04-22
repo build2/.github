@@ -1,7 +1,7 @@
 `build2` is an open source (MIT), cross-platform build toolchain that aims to
 approximate Rust Cargo's convenience for developing and packaging C/C++
 projects while providing more depth and flexibility, especially in the build
-system.
+system, to handle more complex requirements.
 
 At the core of the `build2` project is a hierarchy of tools consisting of a
 general-purpose [build system](https://github.com/build2/build2), [package
@@ -23,6 +23,8 @@ Project links:
 * [Community](https://build2.org/community.xhtml) – getting help, contributing, etc
 
 * [github.com/build2-packaging](https://github.com/build2-packaging/) – packaging of third-party projects
+
+* [Setting up the `build2` toolchain for development](https://github.com/build2/HOWTO/blob/master/entries/setup-build2-for-development.md)
 
 GitHub organization links:
 

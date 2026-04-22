@@ -9,5 +9,23 @@ manager](https://github.com/build2/bpkg) (for package consumption), and
 [project manager](https://github.com/build2/bpkg) (for project development).
 Plus there is a number of additional components and services, such as
 [cppget.org](https://cppget.org), the central repository/registry of open
-source packages. See [_What is `build2`?_](https://build2.org/faq.xhtml#what)
+source packages. See [_What is `build2`_?](https://build2.org/faq.xhtml#what)
 for the more detailed picture.
+
+Project quick links:
+
+* [Home Page](https://build2.org)
+
+* [Documentation](https://build2.org/doc.xhtml)
+
+* [Installation](https://build2.org/install.xhtml)
+
+* [Community](https://build2.org/community.xhtml) (getting help, contributing, etc)
+
+* [`github.com/build2-packaging`](https://github.com/build2-packaging/) (packaging of third-party projects)
+
+GitHub organization quick links:
+
+* [Issues](https://github.com/build2/build2/issues)
+
+* [Releases](https://github.com/build2/build2-toolchain/releases)

@@ -24,6 +24,8 @@ Project links:
 
 * [github.com/build2-packaging](https://github.com/build2-packaging/) – packaging of third-party projects
 
+* [github.com/build2-community](https://github.com/build2-community/) – community projects (syntax highlighting, etc)
+
 * [Setting up the `build2` toolchain for development](https://github.com/build2/HOWTO/blob/master/entries/setup-build2-for-development.md)
 
 GitHub organization links:
